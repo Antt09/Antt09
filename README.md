@@ -1,10 +1,10 @@
-# Antonio Pedro Rosa Crespilho
-### Data Scientist | Physics Student at UNESP
+# Antônio Pedro Rosa Crespilho
+### Data Scientist | Machine Learning & Deep Learning Developer
 
 ## 👤 About Me
-Hi there! I'm Antônio. I am a **Physics undergraduate student at UNESP** passionately transitioning into **Data Science and Artificial Intelligence**. I leverage the strong mathematical, statistical, and analytical foundation from physics to decipher complex patterns in large-scale datasets and build robust predictive models.
+Hi there! I'm Antônio. I am a **Data Science and Artificial Intelligence developer** passionately building intelligent systems. I leverage a strong mathematical, statistical, and analytical foundation to decipher complex patterns in large-scale datasets and build robust predictive models.
 
-Currently, I am deep-diving into practical Machine Learning pipelines, Feature Engineering, and high-performance Computer Vision.
+Currently, I am deep-diving into practical Machine Learning pipelines, Feature Engineering, Natural Language Processing (NLP), and high-performance Computer Vision.
 
 ---
 
@@ -58,12 +58,5 @@ Currently, I am deep-diving into practical Machine Learning pipelines, Feature E
 
 ## 📈 GitHub Statistics
 
-![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anttt09&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anttt09&layout=compact&theme=tokyonight&langs_count=7)
-
----
-
-## 📬 Let's Connect!
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ant%C3%B4nio-pedro-rosa-b886611a0)
-[![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoantonio02@gmail.com)
+```img
+[https://github-readme-stats.vercel.app/api?username=Anttt09&show_icons=true&theme=tokyonight&count_private=true](https://github-readme-stats.vercel.app/api?username=Anttt09&show_icons=true&theme=tokyonight&count_private=true)
