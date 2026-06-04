@@ -58,6 +58,10 @@ Currently, I am deep-diving into practical Machine Learning pipelines, Feature E
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anttt09&show_icons=true&theme=tokyonight&count_private=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anttt09&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anttt09&layout=compact&theme=tokyonight&langs_count=7)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anttt09&theme=tokyonight" alt="Profile Stats" />
+</p>
