@@ -1,4 +1,4 @@
-# Antônio Pedro Rosa Crespilho
+# Antonio Pedro Rosa
 ### Data Scientist | Machine Learning & Deep Learning Developer
 
 ## 👤 About Me
@@ -58,13 +58,11 @@ Currently, I am deep-diving into practical Machine Learning pipelines, Feature E
 
 ## 📈 GitHub Statistics
 
-⚠️ *Note: Profile metrics are dynamically updated based on active repository contributions.*
-
-![](https://img.shields.io/github/followers/Antt09?label=Followers&style=for-the-badge&color=00b4d8)
-![](https://img.shields.io/github/stars/Antt09?label=Repository%20Stars&style=for-the-badge&color=70e000)
-![](https://img.shields.io/github/repo-size/Antt09/Anttt09?label=Profile%20Size&style=for-the-badge&color=ffb703)
-
----
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Antt09?label=Followers&style=for-the-badge&color=00b4d8" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Antt09?label=Repository%20Stars&style=for-the-badge&color=70e000" alt="Stars"/>
+  <img src="https://img.shields.io/github/repo-size/Antt09/Anttt09?label=Profile%20Size&style=for-the-badge&color=ffb703" alt="Repo Size"/>
+</p>
 
 ### 💻 Language Distribution (Top Technologies)
 ```python
@@ -72,9 +70,3 @@ Currently, I am deep-diving into practical Machine Learning pipelines, Feature E
 📌 Python          ||||||||||||||||||||||||||||||  85%
 📌 SQL             |||||                           10%
 📌 Shell/Others    ||                              5%
----
-
-## 📬 Let's Connect!
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ant%C3%B4nio-pedro-rosa-crespilho-b886611a0)
-[![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoantonio02@gmail.com)
