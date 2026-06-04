@@ -1,4 +1,4 @@
-# Antonio Pedro Rosa
+# Antônio Pedro Rosa Crespilho
 ### Data Scientist | Machine Learning & Deep Learning Developer
 
 ## 👤 About Me
@@ -56,12 +56,21 @@ Currently, I am deep-diving into practical Machine Learning pipelines, Feature E
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 Statistics & Connection
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Antt09?label=Followers&style=for-the-badge&color=00b4d8" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/Antt09?label=Repository%20Stars&style=for-the-badge&color=70e000" alt="Stars"/>
   <img src="https://img.shields.io/github/repo-size/Antt09/Anttt09?label=Profile%20Size&style=for-the-badge&color=ffb703" alt="Repo Size"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ant%C3%B4nio-pedro-rosa-crespilho-b886611a0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:contatoantonio02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </p>
 
 ### 💻 Language Distribution (Top Technologies)
