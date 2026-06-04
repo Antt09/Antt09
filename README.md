@@ -59,6 +59,13 @@ Currently, I am deep-diving into practical Machine Learning pipelines, Feature E
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antt09&show_icons=true&theme=tokyonight&count_private=true" alt="Antonio's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antt09&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Antt09&show_icons=true&theme=tokyonight&count_private=true&v=1" alt="Antonio's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antt09&layout=compact&theme=tokyonight&langs_count=7&v=1" alt="Top Languages" height="180px"/>
 </p>
+
+---
+
+## 📬 Let's Connect!
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ant%C3%B4nio-pedro-rosa-crespilho-b886611a0)
+[![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoantonio02@gmail.com)
