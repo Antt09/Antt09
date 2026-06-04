@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=00b4d8&height=250&section=header&text=Antonio%20Pedro%20Rosa&subtitle=Data%20Scientist%20%7C%20Physics%20Student%20at%20UNESP&fontSize=32&subFontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</div>
-
-<br>
+# Antonio Pedro Rosa Crespilho
+### Data Scientist | Physics Student at UNESP
 
 ## 👤 About Me
 Hi there! I'm Antônio. I am a **Physics undergraduate student at UNESP** passionately transitioning into **Data Science and Artificial Intelligence**. I leverage the strong mathematical, statistical, and analytical foundation from physics to decipher complex patterns in large-scale datasets and build robust predictive models.
@@ -61,20 +58,12 @@ Currently, I am deep-diving into practical Machine Learning pipelines, Feature E
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anttt09&show_icons=true&theme=tokyonight&count_private=true" alt="Antonio's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anttt09&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages" height="180px"/>
-</p>
+![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anttt09&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anttt09&layout=compact&theme=tokyonight&langs_count=7)
 
 ---
 
 ## 📬 Let's Connect!
 
-<div align="left">
-  <a href="https://linkedin.com/in/ant%C3%B4nio-pedro-rosa-b886611a0" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:contatoantonio02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ant%C3%B4nio-pedro-rosa-b886611a0)
+[![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoantonio02@gmail.com)
