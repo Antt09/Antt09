@@ -58,11 +58,20 @@ Currently, I am deep-diving into practical Machine Learning pipelines, Feature E
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antt09&show_icons=true&theme=tokyonight&count_private=true&v=1" alt="Antonio's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antt09&layout=compact&theme=tokyonight&langs_count=7&v=1" alt="Top Languages" height="180px"/>
-</p>
+⚠️ *Note: Profile metrics are dynamically updated based on active repository contributions.*
 
+![](https://img.shields.io/github/followers/Antt09?label=Followers&style=for-the-badge&color=00b4d8)
+![](https://img.shields.io/github/stars/Antt09?label=Repository%20Stars&style=for-the-badge&color=70e000)
+![](https://img.shields.io/github/repo-size/Antt09/Anttt09?label=Profile%20Size&style=for-the-badge&color=ffb703)
+
+---
+
+### 💻 Language Distribution (Top Technologies)
+```python
+# Main technologies applied across repositories:
+📌 Python          ||||||||||||||||||||||||||||||  85%
+📌 SQL             |||||                           10%
+📌 Shell/Others    ||                              5%
 ---
 
 ## 📬 Let's Connect!
